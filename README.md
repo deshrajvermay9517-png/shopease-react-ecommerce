@@ -5,7 +5,7 @@ It includes product listing, product details, search, category filtering, price 
 
 ## Live Demo
 
-Add your live project link here after deployment.
+ https://deshrajvermay9517-png.github.io/shopease-react-ecommerce/
 
 ## GitHub Repository
 
