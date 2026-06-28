@@ -9,7 +9,7 @@ Add your live project link here after deployment.
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/deshrajvermay9517-png/shopease-react-ecommerce
 
 ## Features
 
