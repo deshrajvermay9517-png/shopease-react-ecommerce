@@ -3,9 +3,6 @@
 ShopEase is a responsive e-commerce frontend project built using React.js.
 It includes product listing, product details, search, category filtering, price sorting, cart management, quantity update, remove from cart, and cart persistence using LocalStorage.
 
-## GitHub Repository
-
-https://github.com/deshrajvermay9517-png/shopease-react-ecommerce
 
 ## Features
 
